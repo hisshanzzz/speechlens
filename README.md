@@ -1,5 +1,6 @@
 # SpeechLens
-<img width="861" height="982" alt="Speech Lens Demo" src="https://github.com/user-attachments/assets/50ba4b3e-65ad-4785-b7f4-c4e7cfbf8ac3" />
+<img width="952" height="1122" alt="Speech Lens Demo" src="https://github.com/user-attachments/assets/e0c99435-572e-4f9a-87d9-3aafa2204a55" />
+
 
 
 A small Python tool I built to check speech scripts before I coach students at English Pro Hub.
