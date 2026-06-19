@@ -13,7 +13,7 @@ Paste a `.txt` file with your speech. It tells you:
 
 No extra libraries. Just Python 3.8+.
 
-## Why I made this
+## Why did I makw this?
 
 I judge speech contests and coach students for English Day competitions. Most speakers lose points for the same three things: going over time, too many fillers, and sentences that look fine on paper but sound heavy when spoken.
 
